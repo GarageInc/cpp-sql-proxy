@@ -1,4 +1,5 @@
 #include "stdafx.h"
+//#include <windows.h>
 #include "proxy.h"
 
 int ACCEPTOR_PORT	= 5060;
