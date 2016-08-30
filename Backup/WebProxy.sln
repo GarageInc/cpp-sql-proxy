@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WebProxy", "WebProxy\WebProxy.vcproj", "{9E2827CC-67CD-47BE-973E-707D27F14119}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		BugSlayer|Win32 = BugSlayer|Win32
+		Debug Win2000|Win32 = Debug Win2000|Win32
+		Debug_MFC|Win32 = Debug_MFC|Win32
+		Debug|Win32 = Debug|Win32
+		Hoard Debug|Win32 = Hoard Debug|Win32
+		Hoard|Win32 = Hoard|Win32
+		Release MinSize|Win32 = Release MinSize|Win32
+		Release Win2000|Win32 = Release Win2000|Win32
+		Release_MFC|Win32 = Release_MFC|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E2827CC-67CD-47BE-973E-707D27F14119}.BugSlayer|Win32.ActiveCfg = Release|Win32
+		{9E2827CC-67CD-47BE-973E-707D27F14119}.BugSlayer|Win32.Build.0 = Release|Win32
+		{9E2827CC-67CD-47BE-973E-707D27F14119}.Debug Win2000|Win32.ActiveCfg = Debug|Win32
+		{9E2827CC-67CD-47BE-973E-707D27F14119}.Debug Win2000|Win32.Build.0 = Debug|Win32
+		{9E2827CC-67CD-47BE-973E-707D27F14119}.Debug_MFC|Win32.ActiveCfg = Debug|Win32
+		{9E2827CC-67CD-47BE-973E-707D27F14119}.Debug_MFC|Win32.Build.0 = Debug|Win32
+		{9E2827CC-67CD-47BE-973E-707D27F14119}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9E2827CC-67CD-47BE-973E-707D27F14119}.Debug|Win32.Build.0 = Debug|Win32
+		{9E2827CC-67CD-47BE-973E-707D27F14119}.Hoard Debug|Win32.ActiveCfg = Debug|Win32
+		{9E2827CC-67CD-47BE-973E-707D27F14119}.Hoard Debug|Win32.Build.0 = Debug|Win32
+		{9E2827CC-67CD-47BE-973E-707D27F14119}.Hoard|Win32.ActiveCfg = Release|Win32
+		{9E2827CC-67CD-47BE-973E-707D27F14119}.Hoard|Win32.Build.0 = Release|Win32
+		{9E2827CC-67CD-47BE-973E-707D27F14119}.Release MinSize|Win32.ActiveCfg = Release|Win32
+		{9E2827CC-67CD-47BE-973E-707D27F14119}.Release MinSize|Win32.Build.0 = Release|Win32
+		{9E2827CC-67CD-47BE-973E-707D27F14119}.Release Win2000|Win32.ActiveCfg = Release|Win32
+		{9E2827CC-67CD-47BE-973E-707D27F14119}.Release Win2000|Win32.Build.0 = Release|Win32
+		{9E2827CC-67CD-47BE-973E-707D27F14119}.Release_MFC|Win32.ActiveCfg = Release|Win32
+		{9E2827CC-67CD-47BE-973E-707D27F14119}.Release_MFC|Win32.Build.0 = Release|Win32
+		{9E2827CC-67CD-47BE-973E-707D27F14119}.Release|Win32.ActiveCfg = Release|Win32
+		{9E2827CC-67CD-47BE-973E-707D27F14119}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
